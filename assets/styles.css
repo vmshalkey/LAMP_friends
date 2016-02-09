@@ -1,0 +1,23 @@
+#wrapper {
+	padding: 2% 10%;
+}
+#login, #register {
+	border: 2px solid black;
+	display: inline-block;
+	vertical-align: top;
+	padding: 20px;
+	margin: 20px;
+}
+#errors {
+	color: red;
+}
+.post {
+	border: 1px solid black;
+	width: 300px;
+}
+form {
+	display: inline;
+}
+td {
+	background: lightgray;
+}
